@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://MiguelAlejo24.github.io/Caso03-Buho/blog</id>
+    <title>Bienvenido a PLUM! Blog</title>
+    <updated>2021-08-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://MiguelAlejo24.github.io/Caso03-Buho/blog"/>
+    <subtitle>Bienvenido a PLUM! Blog</subtitle>
+    <icon>https://MiguelAlejo24.github.io/Caso03-Buho/https://i.ibb.co/1X5VmB0/Sin-t-tulo-1.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Fundadores de PUM]]></title>
+        <id>https://MiguelAlejo24.github.io/Caso03-Buho/blog/2021/08/26/welcome</id>
+        <link href="https://MiguelAlejo24.github.io/Caso03-Buho/blog/2021/08/26/welcome"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <author>
+            <name>Juan Ysla Cadenas</name>
+            <uri>https://github.com/SiologoDr</uri>
+        </author>
+        <author>
+            <name>Miguel Alejo Chamba</name>
+            <uri>https://github.com/MiguelAlejo24</uri>
+        </author>
+        <category label="creadores" term="creadores"/>
+        <category label="fundadores" term="fundadores"/>
+        <category label="plum" term="plum"/>
+    </entry>
+</feed>

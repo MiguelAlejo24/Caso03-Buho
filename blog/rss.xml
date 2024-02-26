@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Bienvenido a PLUM! Blog</title>
+        <link>https://MiguelAlejo24.github.io/Caso03-Buho/blog</link>
+        <description>Bienvenido a PLUM! Blog</description>
+        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Fundadores de PUM]]></title>
+            <link>https://MiguelAlejo24.github.io/Caso03-Buho/blog/2021/08/26/welcome</link>
+            <guid>https://MiguelAlejo24.github.io/Caso03-Buho/blog/2021/08/26/welcome</guid>
+            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <category>creadores</category>
+            <category>fundadores</category>
+            <category>plum</category>
+        </item>
+    </channel>
+</rss>

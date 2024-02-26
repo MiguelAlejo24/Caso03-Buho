@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusan=self.webpackChunkdocusan||[]).push([[294],{5733:s=>{s.exports=JSON.parse('{"label":"fundadores","permalink":"/Caso03-Buho/blog/tags/fundadores","allTagsPath":"/Caso03-Buho/blog/tags","count":1,"unlisted":false}')}}]);

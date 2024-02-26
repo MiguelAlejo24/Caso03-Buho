@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusan=self.webpackChunkdocusan||[]).push([[973],{5044:a=>{a.exports=JSON.parse('[{"label":"creadores","permalink":"/Caso03-Buho/blog/tags/creadores","count":1},{"label":"fundadores","permalink":"/Caso03-Buho/blog/tags/fundadores","count":1},{"label":"plum","permalink":"/Caso03-Buho/blog/tags/plum","count":1}]')}}]);

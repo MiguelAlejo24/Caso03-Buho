@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusan=self.webpackChunkdocusan||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Fundadores de PUM","permalink":"/Caso03-Buho/blog/2021/08/26/welcome","unlisted":false}]}')}}]);
